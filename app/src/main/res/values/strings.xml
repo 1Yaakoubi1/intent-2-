@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">compte</string>
+    <string name="creationcompte">creer un compte</string>
+    <string name="login">login</string>
+    <string name="pass">pass</string>
+    <string name="email">email</string>
+    <string name="valider">valider</string>
+</resources>
